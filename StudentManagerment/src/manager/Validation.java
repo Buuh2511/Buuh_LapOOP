@@ -10,10 +10,7 @@ import entity.Student;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- *
- * @author Buu Huynh
- */
+
 public class Validation {
 
     Scanner sc = new Scanner(System.in);

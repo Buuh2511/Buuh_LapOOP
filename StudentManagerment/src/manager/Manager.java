@@ -7,14 +7,10 @@ package manager;
 
 import entity.Report;
 import entity.Student;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Collections;
 
-/**
- *
- * @author Buu Huynh
- */
+
 public class Manager {
 
     Validation vld = new Validation();

@@ -5,10 +5,7 @@
  */
 package entity;
 
-/**
- *
- * @author Buu Huynh
- */
+
 public class Student implements Comparable<Student>{
 
     String ID;

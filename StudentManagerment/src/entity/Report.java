@@ -5,10 +5,7 @@
  */
 package entity;
 
-/**
- *
- * @author Buu Huynh
- */
+
 public class Report {
     String ID;
     String Name;

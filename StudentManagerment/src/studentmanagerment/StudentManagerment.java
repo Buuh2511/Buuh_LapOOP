@@ -10,10 +10,7 @@ import java.util.ArrayList;
 import manager.Manager;
 import manager.Validation;
 
-/**
- *
- * @author Buu Huynh
- */
+
 public class StudentManagerment {
 
     /**
